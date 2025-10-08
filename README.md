@@ -8,7 +8,7 @@
 ## Ejecutar
 Desde la carpeta del proyecto:
 ```bash
-python -m src.main        # corre el caso de la pauta
-python -m src.main_bonus  # opcional: BE + Newton en EDO no lineal
+python -m src.main       
+python -m src.main_bonus
 ```
 Las imagenes se guardane n `outputs/`.
